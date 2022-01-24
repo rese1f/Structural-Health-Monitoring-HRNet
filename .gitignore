@@ -132,3 +132,4 @@ log/*
 output/*
 pred_sample/*
 submission_helper.py
+lst_maker.py
